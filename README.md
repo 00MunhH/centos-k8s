@@ -25,3 +25,5 @@ This repository provides a Vagrant-based setup to create a local Kubernetes clus
    ```bash
    git clone https://github.com/your-username/k8s-vagrant-cluster-centos9-kubeadm.git
    cd k8s-vagrant-cluster-centos9-kubeadm
+   ```
+
